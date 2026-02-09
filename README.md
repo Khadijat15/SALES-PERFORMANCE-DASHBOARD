@@ -13,11 +13,11 @@ The key objectives of this project are to:
 - Identify the most frequently used shipping method
 - Uncover actionable insights to support strategic business decisions
 
-  # Tools Used
+# ✂️Tools Used
   - Microsoft Excel
   - Power Query
  
- # Data Cleaning and Preparation
+ # 🪥 Data Cleaning and Preparation
 The data was cleaned and prepared using Power Query. Unnecessary columns were removed, data types were standardized, and duplicates were handled. Additional features such as delivery days and monthly periods were derived to support time-based and performance analysis.
 
 # 💡Key Insights
@@ -40,7 +40,7 @@ Year-over-year analysis shows an overall increase in sales and total profit; how
 The average delivery time across all regions is approximately 4 days, reflecting generally efficient delivery operations, though delivery duration varies slightly by location.
 
 
-# Recommendations 
+# 📌Recommendations 
 
 - Strengthen High-Performing Regions
 Focus marketing campaigns, inventory availability, and customer retention strategies in top-performing regions such as New York City and California to maximize revenue growth.
