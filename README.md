@@ -1,11 +1,12 @@
 # SALES-PERFORMANCE-DASHBOARD
-## PROJECT OVERVIEW
+
+## 🔬 PROJECT OVERVIEW
 This project focuses on Sales Performance Analysis of furniture company.A sales performance dashboard was created to evaluate key business metrics such as sales, profit, quantity sold, and delivery performance. The analysis provides a clear view of how the company is performing across different states and cities and supports data-driven decision-making.
 
 # 📌Problem Statement
 Many companies struggle to identify which regions generate the most revenue, what factors affect profitability, and how operational processes such as delivery and shipping impact performance. In some cases, revenue may increase while profit margins decline due to inefficiencies that go unnoticed. This project aims to address these challenges by providing clear insights into sales, profit trends, and delivery performance.
 
-# Project Objectives
+# 🌼Project Objectives
 The key objectives of this project are to:
 - Generate key performance indicators (KPIs) such as total sales, total profit, quantity sold, and average delivery days
 - Analyze year-over-year performance to evaluate growth or decline
