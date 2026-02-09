@@ -62,7 +62,7 @@ Investigate factors contributing to declining profit margins despite increased s
 While average delivery time is acceptable, regions with longer delivery durations should be reviewed to identify opportunities for logistics improvements and better customer experience.
 
 
-#  Files in Repo
+#  📁 Files in Repo
 - 'Sales Performance Dashboard.png': Dashboard Image Preview
 - 'Sales Performance.xlsx': View full project in Excel
 - README.md: This file.
